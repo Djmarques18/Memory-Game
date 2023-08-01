@@ -81,7 +81,7 @@ const congratulationsPopup = document.getElementById('congratulations-popup');
 const playAgainButton = document.getElementById('play-again-button');
 
 playAgainButton.addEventListener('click', () => {
-  location.href = 'frontpageMG.html';
+  location.href = 'index.html';
 });
 
 function showCongratulationsPopup() {
